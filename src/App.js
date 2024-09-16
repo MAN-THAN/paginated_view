@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import SearchCompo from './searchCompo';
+import PaginationCompo from './pagination';
+import FileTree from './fileTree';
 
 function App() {
   return (
-   <SearchCompo />
+    // <PaginationCompo />
+    <FileTree />
   );
 }
 
