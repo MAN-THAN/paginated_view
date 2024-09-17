@@ -5,8 +5,8 @@ import FileTree from './fileTree';
 
 function App() {
   return (
-    // <PaginationCompo />
-    <FileTree />
+    <PaginationCompo />
+    // <FileTree />
   );
 }
 

@@ -17,3 +17,15 @@ code {
   justify-content: center;
   align-items: center;
 }
+table, tr, td, th{
+  border-collapse: collapse;
+  border : 1px solid black;
+
+}
+th, tr, td{
+  padding: 1em;
+}
+button{
+  min-width: 4em;
+  max-height: 2em;
+}
